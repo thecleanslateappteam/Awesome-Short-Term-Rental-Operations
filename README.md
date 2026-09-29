@@ -62,6 +62,7 @@ Whether you manage a single Airbnb listing or a portfolio of 500+ properties acr
 | **[Chekin](https://chekin.com/)** 🛂 | Guest check-in automation platform for online registration, identity verification, tourist taxes, and digital keys. | Starts at €3.95 / property / month (~$4.30/mo, Basic plan; minimum 3 properties) | 14-day free trial (full access to check-in features; no credit card required) | **~$3.6M Total Funding** (~$2M ARR, ~25–50 employees) |
 | **[Enso Connect](https://ensoconnect.com/)** 📱 | Digital guest experience platform providing web-based boarding pass, smart key access, upsells, and verification. | Starts at ~$9 / listing / month (based on portfolio size; setup fee applies) | No free trial (30-minute personalized live demo required for onboarding) | **~$2M Total Funding** (~$3.2M ARR, ~$16M Est. Valuation, ~25–35 employees) |
 | **[Host Tools](https://hosttools.com/)** ⚡ | Lightweight messaging and channel automation platform for Airbnb & Vrbo hosts with smart lock integrations. | Starts at $10 / listing / month (Messaging plan; $7/mo on annual billing) | 14-day free trial (full access to all features; no credit card required) | **Bootstrapped / Independent** (~$1M Estimated ARR, ~5–15 employees) |
+| **[CleanSlate](https://thecleanslateapp.com/)** 🧾 | Turns booking calendars into cleaner invoices automatically, for STR cleaners, hosts, and regular-home cleaners. | $7.50 / month, billed annually ($89.99/yr founding rate; $12.99 month-to-month) | 75-day free trial (no credit card) | **Bootstrapped / Independent** |
 
 ---
 
